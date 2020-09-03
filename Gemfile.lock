@@ -180,7 +180,6 @@ DEPENDENCIES
   spring
   turbolinks
   uglifier
-  travis 
 
 RUBY VERSION
    ruby 2.6.6p146
