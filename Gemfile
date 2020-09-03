@@ -39,4 +39,4 @@ gem 'puma'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'travis'
+gem 'travis', '~> 1.9'
